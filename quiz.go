@@ -15,7 +15,7 @@ type Quiz struct {
 
 type Question struct {
 	Question string `json:"question"`
-	Answer   string `json:"answer"`
+	Answer   []string `json:"answer"`
 	Options []string `json:"options,omitempty"` //optional field
 }
 
@@ -26,6 +26,56 @@ func NewQuiz() *Quiz {
 	return &Quiz{
 		Questions: make([]Question,20),
 	}
+}
+
+func (quiz *Quiz) run() error {
+	var input string 
+	var isgood bool
+	var sinput []string
+
+	for _, question := range quiz.Questions {
+
+		fmt.Printf("Question: %s\n", question.Question)
+		if len(question.Options) > 0 {
+			fmt.Printf("Options: %v\n", question.Options)
+		}
+
+		//read line from console
+		for isgood == false {
+			fmt.Scanln(&input)
+			if input == "" {	
+				log.Println("No input provided, skipping question.")
+				continue
+			}
+			if input == "exit" || input == "quit" {
+				log.Println("Exiting quiz.")
+				return nil
+			}
+			sinput := strings.split(input, ",") // take only the first line of input
+			if len(sinput) != len(question.Answer) {
+				log.Printf("Incorrect number of answers provided. Expected %d, got %d.\n", len(question.Answer), len(sinput))
+				continue
+			}
+			isgood = true
+		}
+
+		isgood = false
+
+		// loop through input and answers checking for equality ignoring case
+		for idx, ans := range inputs {
+			ans = strings.TrimSpace(ans) // remove leading and trailing whitespace
+			rans = strings.TrimSpace(question.Answer[idx]) // get the answer from the question
+			
+			if strings.EqualFold(ans, answer) {
+				fmt.Println("Correct: ",answer)
+			} else {
+				fmt.Println("Incorrect, the correct answer is:", answer)
+			}
+		}
+
+		fmt.Println()
+	}
+	return nil
 }
 
 /*
