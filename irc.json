@@ -1,16 +1,357 @@
 {
 	"questions": [
 		{
-			"question": "What is the capital of France?",
-			"answer": "Paris"
+			"question": "Where, in any specific case, different sections of this code specify different materials, methods of construction or other requirements, the most _________ shall govern.",
+			"answer": ["restrictive"]
 		},
 		{
-			"question": "What is the largest planet in our solar system?",
-			"answer": "Jupiter"
+			"question": "The purpose of this code is to establish __________ requirements to safeguard the public safety, health and general welfare.",
+			"answer": ["minimum"]
 		},
 		{
-			"question": "Who wrote 'To Kill a Mockingbird'?",
-			"answer": "Harper Lee"
+			"question": "Where a referenced code or standard includes sugject matter that is within the scope of the IRC, the provisions of the _____ shall take precedence.",
+			"answer": ["IRC"]
+		},
+		{
+			"question": "An alternative material or method shall be approved where the proposed design is ______ and complies with the ______ of the code.",
+			"answer": ["satisfactory", "intent"]
+		},
+		{
+			"question": "Compliance with the specific _______-based provisions of the International Codes in Lieu of specific requirements of the IRC shall be permitted as an alternative.",
+			"answer": ["performance"]
+		},
+		{
+			"question": "A permit is not required for one-story detached accessory structures, provided that the floor area does not exceed ______ square feet.",
+			"answer": ["200"]
+		},
+		{
+			"question": "Fences that are _____ feet or less in height do not require a permit.",
+			"answer": ["7"]
+		},
+		{
+			"question": "A permit is not required for the replacement of branch circuit overcurrent devices (breakers) of the required capacity in the same location (within a panel).",
+			"answer": ["True"]
+		},
+		{
+			"question": "Unattached decks not exceeding ______ square feed in area, that are not more than ________ inches above grade at any point, do not require a permit.",
+			"answer": ["200", "30"],
+			"note": "provided the decks do not serve the exit door required by Section R311.4."
+		},
+		{
+			"question": "Where equipment replacements and repairs must be performed in an emergency situation, the permit application shall be submitted within the _________ _______ business days.",
+			"answer": ["next working"]
+		},
+		{
+			"question": "An application for a permit for any proposed work shall be deemed to have been abandoned _______ days after the date of filing.",
+			"answer": ["180"]
+		},
+		{
+			"question": "Before issuing a permit, the building official is ________ to examine or cause to be examined buildings, structures and sites for which an application has been filed.",
+			"answer": ["authorized"]
+		},
+		{
+			"question": "Where the building official issues a permit, the construction documents shall be approced in writing or by a stamp which states _______ ________ ________ ________.",
+			"answer": ["Reviewed for code compliance"]
+		},
+		{
+			"question": "Final inspection shall be made after the permitted work is ___________ and prior to _______",
+			"answer": ["complete", "occupancy"]
+		},
+		{
+			"question": "If located in a flood hazard area, the documentation of elevations required in Section R322,.1.10 shall be submitted to the building offical prior to the ________ inspection.",
+			"answer": ["final"]
+		},
+		{
+			"question": "Signifies access that requires the removal of an access panel or similar removable obstruction.",
+			"answer": ["Access (to)"]
+		},
+		{
+			"question": "A finished or unfinished habitable space within an attic.",
+			"answer": ["Attic room (habitable attic)"]
+		},
+		{
+			"question": "Hot water is water at a temperature greater than or equal to ________ degrees Fahrenheit.",
+			"answer": ["110"]
+		},
+		{
+			"question": "A wall supporting a vertical load in addition to its own weight is a ________-________ wall.",
+			"answer": ["load","bearing"]
+		},
+		{
+			"question": "What is the minimum uniformly distributed live load for habitable attics and attics served with fixed stairs?",
+			"answer": ["30 psf"]
+		},
+		{
+			"question": "Wood structural panels with a minimum thickness of _______ inch and a maximum span of _______ feet shall be permitted for opning protection in windborne debris regions.",
+			"answer": ["7/16", "8"]
+		},
+		{
+			"question": "The seismic provisions of the IRC apply to detached one- and two-family dwellings in Seismic Design Categories __________.",
+			"answer": ["D0","D1","D2"]
+		},
+		{
+			"question": "For dwellings with fire sprinkler systems, exterior walls with a fire seperation distance less than ________ feet shall have not less than a 1-hour fire-resistance rating with exposure from the outside.",
+			"answer": ["3"]
+		},
+		{
+			"question": "In a nonspriklered townhouse building, the common wall between units shall be a minimum of _______ - hour _______ - __________ __________ wall assembly.",
+			"answer": ["2","fire-resistance rated"]
+		},
+		{
+			"question": "For townhouse separation, a parapet is not required where the roof sheathing is fire-retardant-treated wood for a distance of __________ feet on each side of the wall and there are no penetrations in the roof within _________ feet of the common wall.",
+			"answer": ["4", "4"]
+		},
+		{
+			"question": "Openings from a private garage directly into a room used for _______ ________ shall not be permitted.",
+			"answer": ["sleeping purposes"]
+		},
+		{
+			"question": "Doors between the garage and residence shall be equipped with a _____ - ________ ________.",
+			"answer": ["self-closing or automatic closing device"]
+		},
+		{
+			"question": "Garages shall be separated from residences and attics by not less than ________ - inch gypsum board or equivalent on the garage side.",
+			"answer": ["1/2"]
+		},
+		{
+			"question": "Enclosed space under stairs that is accessed by a door or access panel shall have walls, under-stair surface and any soffits protected on the enclosed side with _______ - inch gypsum board.",
+			"answer": ["1/2"]
+		},
+		{
+			"question": "Wall and ceiling finishes shall have a flame spread index of not greater than ___________.",
+			"answer": ["200"]
+		},
+		{
+			"question": "In combustible construction, fireblocking shall be provided to cut off all concealed draft openings and to form an effective fire barrier between _________.",
+			"answer": ["stories"]
+		},
+		{
+			"question": "All habitable rooms shall be provided with aggregate glazing area of not less than ________ percent of the floor area of such rooms.",
+			"answer": ["8"]
+		},
+		{
+			"question": "For natural ventilation for habitable rooms, the minimum openable area to the outdoors shall be ________ percent of the floor area being ventilated.",
+			"answer": ["4"]
+		},
+		{
+			"question": "Bathrooms shall be provided with aggregate glazing area in windows of not less than _______ square feet, one-half of which must be openable.",
+			"answer": ["3"]
+		},
+		{
+			"question": "Where the air infiltration rate of a dwelling unit is not more than _________ air changes per hour where tested, the dwelling unit shall be provided with _______ - ________ mechanical ventilation.",
+			"answer": ["5", "whole","house"]
+		},
+		{
+			"question": "Dwelling units shall be provided with heating facilities capable of maintaining a minimum room temperature of ________ degrees Fahrenheit.",
+			"answer": ["68"]
+		},
+		{
+			"question": "Habitable rooms shall have a floor area of not less than _______ square feet.",
+			"answer": ["70"]
+		},
+		{
+			"question": "Habitable rooms shall be not less than _______ feet in any horizontal dimension.",
+			"answer": ["7"]
+		},
+		{
+			"question": "Habitable space, hallways and portions of basements containing these spaces shall have a ceiling height of not less than _______ feet.",
+			"answer": ["7"]
+		},
+		{
+			"question": "Bathrooms, toilet rooms and aluncdry rooms shall have a minimum ceiling height of _________ feet _______ inches",
+			"answer": ["6","8"]
+		},
+		{
+			"question": "For rooms with sloped ceilings, at least ______ percent of the required floor area of the room must have a ceiling height of not less than 7 feet.",
+			"answer": ["50"]
+		},
+		{
+			"question": "Portions of basements that do not contain habitable space or hallways shall have a ceiling height of not less than _________ feet ________ inches.",
+			"answer": ["6","8"]
+		},
+		{
+			"question": "Every dwelling unit shall be provided with a water closet, lavatory, and a ______ or _______.",
+			"answer": ["bathtub", "shower"]
+		},
+		{
+			"question": "Each dwelling unit shall be provided with a kitchen area and every kitchen area shall be provided with a _________.",
+			"answer": ["sink"]
+		},
+		{
+			"question": "A clearance of at least ________ inches shall be provided at the front of a shower opening.",
+			"answer": ["24"]
+		},
+		{
+			"question": "Showers and bathrubs with installed shower heads shall be finished with a nonabsorbent surface extending to a height of not less than _______ feet above the floor.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Glazing in all fixed and operable panels of swinging, sliding and bifold doors shall be considered a ________ _________.",
+			"answer": ["hazardous", "location"]
+		},
+		{
+			"question": "A pane of glass in a window requires safety glazing if the pane is greater than _______ square feet with a bottom edge less than ________ inches above the floor and a top edge greater than ________ inches above the floor.",
+			"answer": ["9", "18", "36"]
+		},
+		{
+			"question": "Glazing at the side of a stairway where the bottom exposed edge of glazing is less than ________ inches above the plane of the adjacent walking surface must be safety glazing.",
+			"answer": ["36"]
+		},
+		{
+			"question": "Glazing less than _______ inches above the landing at the bottom of the stairway and within ______ inches of the bottom tread nosing must be safety glazing.",
+			"answer": ["36", "60"]
+		},
+		{
+			"question": "Garage floor surfaces shall be of approved _______ material.",
+			"answer": ["noncombustible"]
+		},
+		{
+			"question": "Carports shall be open on at least _______ sides.",
+			"answer": ["2"]
+		},
+		{
+			"question": "Basements, habitable attics and every sleeping room shall have at least one operable _______ _______ and ________ __________.",
+			"answer": ["emergency", "escape", "rescue", "opening"]
+		},
+		{
+			"question": "Where emergency escape and rescue openings are provided are provided, they shall have a sill height of not more than ______ inches above the floor.",
+			"answer": ["44"]
+		},
+		{
+			"question": "All emergency escape and rescue openings shall have a minimum net clear opening of ______ square feet. Minimum net clear opening height shall be ______ inches. Minimum net clear opening width shall be ______ inches.",
+			"answer": ["5.7", "24", "20]
+		},
+		{
+			"question": "The horizontal area of a window well serving an emergency escape and rescue opening shall be not less than ______ square feet.",
+			"answer": ["9"]
+		},
+		{
+			"question": "Window wells serving emergency escape and rescue openings shall be designed for proper ________.",
+			"answer": ["drainage"]
+		},
+		{
+			"question": "The required egress door for each dwelling unit shall be side-hinged, and shall provide a minimum clear width of ________ inches.",
+			"answer": ["32"]
+		},
+		{
+			"question": "A landing at an exterior door shall have a minimum dimension of _______ inches measured in the direction of travel.",
+			"answer": ["36"]
+		},
+		{
+			"question": "The landing on exterior side of the required egress door is permitted to be a maximum of ______ inches below the top of the threshold provided that the door does not swing over the landing.",
+			"answer": ["7.75"]
+		},
+		{
+			"question": "The width of a hallway shall be not less than ______ feet.",
+			"answer": ["3"]
+		},
+		{
+			"question": "Where a handrail is installed on one side, the clear width of stairways at handrail height shall be a minimum of ______ inches.",
+			"answer": ["31.5"]
+		},
+		{
+			"question": "A flight of stairs shall not have a vertical rise larger than _______ inches between floor levels or landings.",
+			"answer": ["151"]
+		},
+		{
+			"question": "There shall be a floor or _________ at the top and bottom of each stairway.",
+			"answer": ["landing"]
+		},
+		{
+			"question": "For stairs with a straight run, the landing shall have a minimum depth of ______ inches measured in the direction of travel.",
+			"answer": ["36"]
+		},
+		{
+			"question": "Ramps shall have a maximum slope of _______ unit vertical in _______ units horizontal (8.3-percent slope). where serving the required egress door.",
+			"answer": ["1", "12"]
+		},
+		{
+			"question": "Stairways shall be not less than _______ inches in clear width at all points above the permitted handrail height and below the required headroom height.",
+			"answer": ["36"]
+		},
+		{
+			"question": "Is plastic composite material permitted for use as exterior stair treads?",
+			"answer": ["Yes"]
+		},
+		{
+			"question": "On stairways, the maximum riser height shall be _______ inches.",
+			"answer": ["7.75"]
+		},
+		{
+			"question": "On stairways, the minimum tread depth shall be _______ inches.",
+			"answer": ["10"]
+		},
+		{
+			"question": "On stairways, the greatest riser height within any flight of stairs shall not exceed the smallest by more than _______ inch.",
+			"answer": ["3/8"]
+		},
+		{
+			"question": "On stairways, the greatest tread depth within any flgiht of stairs shall not exceed the smallest by more than _____ inches.",
+			"answer": ["3/8"]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
 		}
 	]
 }
