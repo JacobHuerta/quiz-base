@@ -290,36 +290,152 @@
 			"answer": ["3/8"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "A nosing projection not less than _______ inch and not more than _______ inches shall be provided on stairways.",
+			"answer": ["3/4", "1.25"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "The headroom in all parts of the stairway shall be not less than _______ feet ________ inches.",
+			"answer": ["6", "8"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "On spiral stairways, the minimum width shall be _______ inches. The rise shall be not more than __________ inches between treads. A minimum headroom of ______ feet ______ inches shall be provided.",
+			"answer": ["26", "9.5", "6", "6"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Handrail height shall be a minimum of ______ inches and a maximum of _______ inches.",
+			"answer": ["34", "38"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Handrails adjacent to a wall shall have a space of not less than _______ inches between the wall and the handrails.",
+			"answer": ["1.5"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Type I handrails shall have a circular cross section shall have an outside diameter of at least _______ inches and not greater than ______ inches.",
+			"answer": ["1.25", "2"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Open-sided walking surfaces located more than ______ inches above the floor or grade below shall have guards not less than _______ inches in height.",
+			"answer": ["30", "36"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Required guards shall not have openings from the walking surface to the required guard height that allow passage of a sphere _______ inches in diameter.",
+			"answer": ["4"]
+		},
+		{
+			"question": "An automatic residential fire sprinkler system is not required where ______ or _______ are made to existing townhouses that do not have an automatic residential fire sprinkler system.",
+			"answer": ["additions", "alterations"]
+		},
+		{
+			"question": "Smoke alarms shall be installed in the following locations:",
+			"answer": ["bedrooms", "outside bedrooms", "on each additional story of the dwelling"]
+		},
+		{
+			"question": "Photoelectric smoke alarms shall not be installed less than _______ feet horizontally from a permanently installed cooking appliance.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Required smoke alarms shall receive their primary power from the building wiring, and when primary power is interrupted, shall receive power from a _________.",
+			"answer": ["battery"]
+		},
+		{
+			"question": "Physical interconnection of smoke alarms is not required when ________ ________ alarms are installed.",
+			"answer": ["listed wireless"]
+		},
+		{
+			"question": "For new construction, an approved carbon monoxide alarm shall be installed in what locations?",
+			"answer": ["oustide of each bedroom"]
+		},
+		{
+			"question": "Foam plastic shall have a flame spread index of not more than _______ and shall have a smoke-developed index of not more than ________.",
+			"answer": ["75", "450"]
+		},
+		{
+			"question": "Foam plastic shall be separated from the interior of a building by an approved ______ _________ of not less than _______ inch gypsum wallboard.",
+			"answer": ["thermal barrier", "1/2"]
+		},
+		{
+			"question": "A thermal barrier is not required for foam plastic insulation in an attic that is entered only for purposes of ________ or _________.",
+			"answer": ["repairs", "maintenance"]
+		},
+		{
+			"question": "In areas where the probability of termite infestation is \"very heavy\", the clearance between foam plastics installed above grade and exposed earth shall be at least ______ inches.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Dwelling units in two-family dwellings shall be separated from each other by wall and floor assemblies having not less than _______ -hour fire-resistance rating.",
+			"answer": ["1"]
+		},
+		{
+			"question": "Protection of wood and wood-based products from ________ shall be provided in specified locations by the use of naturally durable wood or wood that is preservative-treated.",
+			"answer": ["decay"]
+		},
+		{
+			"question": "Address numbers shall be a minimum of _______ inches high with a minimum stroke width of _______ inch.",
+			"answer": ["4", "0.5]
+		},
+		{
+			"question": "Where there are ________ or more dwelling units in a single structure, the accessibility provisions of IBC Chapter 11 for Group R-3 shall apply.",
+			"answer": ["4"]
+		},
+		{
+			"question": "In flood hazard areas, enclosed areas below the design flood elevation shall be used solely for:",
+			"answer": ["parking of vehicles", "building access", "storage"]
+		},
+		{
+			"question": "Where photovoltaic panels are installed on a roof, a pathway at least _______ inches in width shall be provided to each emergency escape and rescue opening.",
+			"answer": ["36"]
+		},
+		{
+			"question": "The design and consstruction of pools and spas shall comply with the ________.",
+			"answer": ["International Swimming Pool and Spa Code"]
+		},
+		{
+			"question": "The grade away from foundation walls shall fall minimum of ________ inches within the first ________ feet.",
+			"answer": ["6","10"]
+		},
+		{
+			"question": "In Seismic Design Categories D0, D1, and D2, foundations with stem walls shall be provided with a minimum of one No. ________ horizontal bar within 12 inches of the top of the wall and one No. _______ horizontal bar located 3 to 5 inches from the bottom of the footing.",
+			"answer": ["4","4"]
+		},
+		{
+			"question": "All exterior footings shall be placed at least _______ inches below the undisturbed ground surface.",
+			"answer": ["12"]
+		},
+		{
+			"question": "The top surface of footing shall be level. The bottom surface of footings shall not have a slope exceeding _____ unit vertical in ________ units horizontal.",
+			"answer": ["1","10"]
+		},
+		{
+			"question": "Wood sill plates shall be anchored to the foundation with anchor bolts spaced a maximum of _______ feet on center.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Foundation anchor bolts shall be at least ______ inch in diameter and shall extend a minimum of ________ inches into concrete or grouted cells of concrete masonry units.",
+			"answer": [".5", "7"]
+		},
+		{
+			"question": "Isolated hollow masonry piers shall have a minimum nominal thickness of _______ inches.",
+			"answer": ["8"]
+		},
+		{
+			"question": "Hollow masonry piers shall be capped with ______ inches of solid masonry or concrete or a masonry cap block.",
+			"answer": ["4"]
+		},
+		{
+			"question": "The studs used in wood foundation walls shall be ______-inch by ______-inch members.",
+			"answer": ["2","6"]
+		},
+		{
+			"question": "Wood sill plates shall be a minimum of _______-inch by _______-inch nominal lumber.",
+			"answer": ["2","4"]
+		},
+		{
+			"question": "Unless otherwise recommended by the drain manufacturer, perforated foundation drains shall be surrounded with an approved ______ ________.",
+			"answer": ["Filter Membrane"]
+		},
+		{
+			"question": "Steel pipe columns shall be not less than ______ inches in diameter.",
+			"answer": ["3"]
 		},
 		{
 			"question": "",
