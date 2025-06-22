@@ -438,6 +438,54 @@
 			"answer": ["3"]
 		},
 		{
+			"question": "In under-floor spaces, the minimum net area of ventilation openings shall be not less than ________ square foot for each ________ square feet of under-floor space area.",
+			"answer": ["1","150"]
+		},
+		{
+			"question": "Ventilation openings in under-floor spaces are not required where the ground is covered with a continuous ________ vapor retarder and the joints overlap at least _______ inches.",
+			"answer": ["Class I","6"]
+		},
+		{
+			"question": "The minimum required floor access opening to all under-floor spaces shall be ______ inches by _______ inches.",
+			"answer": ["18", "24"]
+		},
+		{
+			"question": "Open web truss or I-joint floor assemblies are required to have a ______-inch gypsum wallboard membrane, _______-inch wood structural panel membrane, or equivalent on the underside of the floor framing member.",
+			"answer": [".5", "5/8"]
+		},
+		{
+			"question": "The ends of each floor joist, beam or girder shall have not less than ______ inches of bearing on wood or metal and not less than ______ inches of bearing on masonry or concrete.",
+			"answer": ["1.5", "3"]
+		},
+		{
+			"question": "NOtches in solid lumber joists, rafters and beams shall be exceed _______ of the depth, shall not be longer than ________ of the depth and shall not be located in the middle ________ of the span.",
+			"answer": ["1/6", "1/3", "1/3"]
+		},
+		{
+			"question": "The tension side of floor joist members ______ inches or greater in nominal thickness shall not be notched except at the ends of the members.",
+			"answer": ["4"]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
+			"question": "",
+			"answer": [""]
+		},
+		{
 			"question": "",
 			"answer": [""]
 		},
