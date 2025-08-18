@@ -466,56 +466,616 @@
 			"answer": ["4"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Where the header joist span does not exceed _______ feet, the header joist may be a single member the same size as the floor joist.",
+			"answer": ["4"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "In combustible contruction where there is usable space both above and below a floor-ceiling assembly, draftstops shall be installed so that the area of the concealed space does not exceed ______ square feet.",
+			"answer": ["1000"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "The provisions of Section R505 Coldformed Steel Floor Framing shall control the construction of cold-formed steel floor framing for buildings not greater than _____ feet in length perpendicular to the joist span.",
+			"answer": ["60"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Flanges and lips of load-bearing cold-formed steel floor framing members shall not be cut or ______.",
+			"answer": ["notched"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "In cold-formed steel framing, floor cantilevers for the top floor of a two- or three-story building or the first floor of a one-story building shall not exceed _______ inches.",
+			"answer": ["24"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Concrete slab-on-ground floors shall be a minimum of _______ inches thick.",
+			"answer": ["3.5"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "For wood stud walls capped with a double top plate, end joints in top plates shall be offset at least _______ inches.",
+			"answer": ["24"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Where joists, trusses or rafters are spaced more than 16 inches on center and the bearing studs below are spaced 24 inches on center, such members shall bear within _______ inches of the studs beneath.",
+			"answer": ["5"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Any wood stud in an exterior wall or bearing partition may be cut or notched to a depth not exceeding ______ percent of its width.",
+			"answer": ["25"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Wood studs in nonbearing partitions may be notched to a depth not exceeding ______ percent a single stud width.",
+			"answer": ["40"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Exterior wood frame walls parallel to a braced wall line shall be offset not more than ______ feet from the designated braced wall line location.",
+			"answer": ["4"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Braced wall lines greater than 16 feet shall have a minimum of ______ braced wall panels.",
+			"answer": ["2"]
 		},
 		{
-			"question": "",
-			"answer": [""]
+			"question": "Wall bracing Method PFG (Portal frame at garage door opening) is limited to walls supporting a roof or _______ and a ________.",
+			"answer": ["one-story", "roof"]
+		},
+		{
+			"question": "Unfaced fiberglass batt insulation is _______ to be used for fireblocking.",
+			"answer": ["permitted"]
+		},
+		{
+			"question": "Braced wall panels shall be contructed with intermittent bracing methods and continuous sheathing methods. Mixing bracing methods shall be _________.",
+			"answer": ["permitted"]
+		},
+		{
+			"question": "In order to use the simplified wall bracing methods, the building must be located where the ultimate design wind speed is less than or equal to _______ mph.",
+			"answer": ["130"]
+		},
+		{
+			"question": "Load-bearing cold-formed steel studs shall be located in-line with joists, trusses and rafters with a maximum tolerance of ______ inch between the centerline of the horizontal and vertical framing members.",
+			"answer": [".75"]
+		},
+		{
+			"question": "Web holes in steel wall studs shall not exceed _______ inches in width or _______ inches in length.",
+			"answer": ["1.5","4.5"]
+		},
+		{
+			"question": "Steel studs and other structural members shall not be _________.",
+			"answer": ["spliced"]
+		},
+		{
+			"question": "In cold-formed steel framing, king, jack and cripple studs shall be the same dimension and thickness as the adjacent ______ studs.",
+			"answer": ["wall"]
+		},
+		{
+			"question": "The minimum thickness of masonry bearing walls more than one story high shall be _______ inches.",
+			"answer": ["8"]
+		},
+		{
+			"question": "Solid masonry walls of one-story dwellings and garages shall be not less than ________ inches in thickness where not greater than 9 feet in height.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Grout shall not be pumped though _______ pipes.",
+			"answer": ["aluminum"]
+		},
+		{
+			"question": "The provisions for structural insulated panel walls are limited to buildings not greater than ______ stories in height with each wall not greater than ____ feet high.",
+			"answer": ["2","10"]
+		},
+		{
+			"question": "Wood wall framing supporting 3/8 inch gypsum board shall not be spaced more than _______ inches on center.",
+			"answer": ["16"]
+		},
+		{
+			"question": "For a water-resistive barrier on an exterior wall, felt shall be applied horizontally with the upper layer lapped over the lower layer not less than _______ inches.",
+			"answer": ["2"]
+		},
+		{
+			"question": "Anchored stone an masonry veneer installed over a backing of wood or cold-formed steel shall be limited to the first story above grade and shall not exceed _______ inches in thickness.",
+			"answer": ["5"]
+		},
+		{
+			"question": "Masonry veneer above openings shall be supported on lintels of ________ materials.",
+			"answer": ["noncombustible"]
+		},
+		{
+			"question": "Where using W1.7 wire ties with hooks, stone or masonry veneer shall be separated from the sheathing by an airspace of a minimum of _______ inch but not more than _______ inches.",
+			"answer": ["1","4.5"]
+		},
+		{
+			"question": "Weepholes in masonry veneer shall be not less than _______ inch in diameter with a maximum spacing of _______ inches on center.",
+			"answer": ["3/16", "33"]
+		},
+		{
+			"question": "Collar ties shall be a minimum of 1 inch by 4 inches, spaced not more than _______ feet on center.",
+			"answer": ["4"]
+		},
+		{
+			"question": "Attic ventilation openings shall have a least dimension of _______ inch minimum and ________ inch maximum.",
+			"answer": ["1/16", "1/4"]
+		},
+		{
+			"question": "Attic access rough-framed openings shall be not less than _______ inches by _______ inches.",
+			"answer": ["22", "30"]
+		},
+		{
+			"question": "Except for Type IC luminaires, thermal insulation shall not be installed above a recessed luminaire or within _______ inches of the recessed luminaire's enclosure.",
+			"answer": ["3"]
+		},
+		{
+			"question": "A cricket or saddle shall be installed on the ridge side of any chimney more than _______ inches wide as measured perpendicular to the slope.",
+			"answer": ["30"]
+		},
+		{
+			"question": "Where the roof sheathing is less than _______ inch thick, the fasteners for asphalt shingles shall penetrate through the sheathing.",
+			"answer": ["3/4"]
+		},
+		{
+			"question": "Asphalt shingles shall be secured to the roof with less than _________ fasteners per strip shingle or ___________ fasteners per individual shingle.",
+			"answer": ["4","2"]
+		},
+		{
+			"question": "At the intersection of asphalt shingles with a vertical sidewall, flashing shall be a minimum of _______ inches in height and ________ inches in width.",
+			"answer": ["4", "4"]
+		},
+		{
+			"question": "Roof drip edges shall be mechanically fastened to the roof deck at a maximum of _________ inches on center.",
+			"answer": ["12"]
+		},
+		{
+			"question": "Wood shakes shall only be used on slopes of _______ units vertical in ________ units horizontal or greater.",
+			"answer": ["3", "12"]
+		},
+		{
+			"question": "For wood shakes roofs, valley flashing shall be not less than No. _________ gage corrosion-resistant sheet metal.",
+			"answer": ["26"]
+		},
+		{
+			"question": "Masonry chimney walls or chimney flue linings shall not chnage in size or shape within _______ inches above or below where the chimney passes through floor, ceiling or roof components.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Chimneys shall extend at least _______ feet higher than any portion of a building widthin ________ feet.",
+			"answer": ["2", "10"]
+		},
+		{
+			"question": "Masonry chimney walls shall be constructed of solid masonry units or hollow masonry units grouted solid with less than a ________ inch nomial thickness.",
+			"answer": ["4"]
+		},
+		{
+			"question": "Any portion of a masonry chimney located in the interior of a building or widthin an exterior wall shall have a minimum airspace clearance to combustibles of _______ inches.",
+			"answer": ["2"]
+		},
+		{
+			"question": "Exterior masonry chimneys that pass through a soffit or cornice shall have a minimum airspace clearance of __________ inch.",
+			"answer": ["1"]
+		},
+		{
+			"question": "Footings for masonry chimneys shall be constructed of concrete or solid masonry at least _______ inches thick.",
+			"answer": ["12"]
+		},
+		{
+			"question": "The minimum thickness of masonry fireplace hearths shall be _______ inches.",
+			"answer": ["4"]
+		},
+		{
+			"question": "Where a masonry fireplace opening is less than 6 quare feet, hearth extensions shall extend at least _______ inches in front of and at least ______ inches beyond each side of the fireplace opening.",
+			"answer": ["16", "8"]
+		},
+		{
+			"question": "For masonry fireplace openings 6 square feet or larger, hearth extensions shall extend at least _______ inches in front of and at least _______ inches beyond each side of the fireplace opening.",
+			"answer": ["20", "12"]
+		},
+		{
+			"question": "All wood beams, joists, studs and other combustible material shall have a clearance of not less than ________ inches from the front faces and sides of masonry fireplaces.",
+			"answer": ["2"]
+		},
+		{
+			"question": "Combustible material within ________ inches of the fireplace opening shall not project more than 1/8 inch for each 1-inch distance from such an opening.",
+			"answer": ["12"]
+		},
+		{
+			"question": "Chapter 11 regulates the _______ efficiency for the desing and contruction of building regulated by this code.",
+			"answer": ["energy"]
+		},
+		{
+			"question": "For mechanical systems, a level working space at least _______ inches deep and _______ inches wide shall be provided in front of the control side to service an appliance.",
+			"answer": ["30", "30"]
+		},
+		{
+			"question": "Where mechanical equipment is located in attics, it shall not be farther than _______ feet from the attic access.",
+			"answer": ["20"]
+		},
+		{
+			"question": "Attics containing mechanical appliances shall be provided with an opening and a clear and unobstructed passageway to allow removal of the ________ appliance.",
+			"answer": ["largest"]
+		},
+		{
+			"question": "Mechanical appliances installed in attics shall have a luminaire controlled by a switch located at the required ______ ______ and a receptacle outlet provided at or near the appliance location.",
+			"answer": ["passageway","opening"]
+		},
+		{
+			"question": "Mechanical appliances suspended from the floor shall have a clearance of not less than ________ inches from the ground.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Mechanical appliances having an ignition source shall be elevated such that the source of ignition is not less than ______ inches above the floor in garages.",
+			"answer": ["18"]
+		},
+		{
+			"question": "_________ shall not be installed at the termination of a clothes dryer exhaust duct.",
+			"answer": ["Screens"]
+		},
+		{
+			"question": "Clothes dryer exhaust ducts shall not be ______ inches nominal in diameter.",
+			"answer": ["4"]
+		},
+		{
+			"question": "A 4-inch radius mitered 45-degree elbow dryer exhuast duct fitting shall reduce the maximum 35-foot length of dryer duct by _______ feet ________ inches.",
+			"answer": ["2", "6"]
+		},
+		{
+			"question": "Where space for a ________ ________ is provided, an exhaust duct system shall be installed.",
+			"answer": ["clothes","dryer"]
+		},
+		{
+			"question": "Crimp joints for round and oval metal ducts shall be lapped not less than ______ inch(es).",
+			"answer": ["1"]
+		},
+		{
+			"question": "Under-floor plenums shall be _______ in new structures.",
+			"answer": ["prohibited"]
+		},
+		{
+			"question": "Return air for a forced-air heating or cooling system shall not be taken from ________.",
+			"answer": ["bathrooms", "toilets", "kitchens", "closets", "garages", "mechanical", "boiler", "furnace", "attics"]
+		},
+		{
+			"question": "For mechanical system installations in flood hazard areas, _______ ________ openings shall be located at or above the required elevation.",
+			"answer": ["combustion","air"]
+		},
+		{
+			"question": "For gas appliance installations using the two-permanent-openings method for outdoor combustion air, one opening shall be within ______ inches of the top and one within _______ inches of the bottom of the space.",
+			"answer": ["12", "12"]
+		},
+		{
+			"question": "Manually operated vent _______ shall not be installed except in connectors or chimneys serving solid fuel-burning appliances.",
+			"answer": ["dampers"]
+		},
+		{
+			"question": "Freestanding or built-in ranges shall have a vertical clearance above the cooking top of not less than ________ inches to unprotected combustible material.",
+			"answer": ["30"]
+		},
+		{
+			"question": "Sauna heaters shall be equipped with a thermostat that will limit room temperature to not greater than _______ degrees Fahrenheit.",
+			"answer": ["194"]
+		},
+		{
+			"question": "Boiler pressure relief valve discharge shall be piped to drains by gravity to within _______ inches of the floor or to an open receptor.",
+			"answer": ["18"]
+		},
+		{
+			"question": "Polyethylene tubing for hydronic piping system shall be installed with _______ - _______ joints.",
+			"answer": ["heat", "fusion"]
+		},
+		{
+			"question": "The maximum amount of fuel oil stored above ground or inside a building shall be __________ gallons.",
+			"answer": ["660"]
+		},
+		{
+			"question": "Vent piping on oil tanks shall be not smaller than _______ - inch pipe.",
+			"answer": ["1.25"]
+		},
+		{
+			"question": "Oil tank vent piping shall terminate outside of buildings at a point not less than _______ feet, measured vertically or horizontally, from any building opening.",
+			"answer": ["2"]
+		},
+		{
+			"question": "Components of a solar thermal energy system that might be subject to a vacuum during operation or shutdown shall be protected by _______ ________ _________ unless designed to withstand such a vacuum.",
+			"answer": ["vacuum", "relief", "valves"]
+		},
+		{
+			"question": "BTU is the abbreviation for ________ _________ _________, which is the quantity of heat required to raise the temperature of 1 pout of water 1 degree Fahrenheit.",
+			"answer": ["British", "Thermal", "Unit"]
+		},
+		{
+			"question": "Fuel gas piping installed across roof surfaces shall be elevated not less than _______ inches above the roof surface.",
+			"answer": ["3.5"]
+		},
+		{
+			"question": "Where gas piping is concealed and run within _________ inches from the framing member face to which the membranes will be attached, it shall be protected by shield plates.",
+			"answer": ["1.5"]
+		},
+		{
+			"question": "Shield plates, where required to cover the area of concealed gas piping, shall be a minimum No. __________ gage.",
+			"answer": ["16"]
+		},
+		{
+			"question": "Underground fuel gas piping systems shall be installed a minimum depth of ______ inches below grade.",
+			"answer": ["12"]
+		},
+		{
+			"question": "Gas appliance shutoff valves shall be located in the same room as the appliance and not farther than _________ feet from the appliance.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Fuel gas appliance connectors shall not exceed an overall length of _______ feet.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Gas vents over 12 inches in size shall terminate not less than ________ feet above the highest point where they pass through the roof.",
+			"answer": ["2"]
+		},
+		{
+			"question": "A Type B or Type L gass vent shall terminate at least ________ feet vertical height above the highest connected appliance draft hood or flue collar.",
+			"answer": ["5"]
+		},
+		{
+			"question": "A Type B-W gas vent shall terminate at least _______ feet in vertical height above the bottom of a wall furnace.",
+			"answer": ["12"]
+		},
+		{
+			"question": "Vent connectors for draft-hood-equipped appliances shall not be _______ than the draft hood outlet diameter.",
+			"answer": ["smaller"]
+		},
+		{
+			"question": "The lowest portion of a gas floor furnace shall have not less than a ________-inch clearance from grade level.",
+			"answer": ["6"]
+		},
+		{
+			"question": "What size diameter is required for fuel-gas-fired domestic clothes dryer exhaust ducts?",
+			"answer": ["4","inches"]
+		},
+		{
+			"question": "Domestic clothes dryer transition ducts shall be metal and limited to a single length not to exceed _______ feet.",
+			"answer": ["8"]
+		},
+		{
+			"question": "When doing a water test on DWV systems during rough-in plumbing, each section shall be filled with water to a point not less than _________ feet above the highest fitting in that section.",
+			"answer": ["5"]
+		},
+		{
+			"question": "When doing an air test on DWV systems during rough-in plumbing, the portion under test shall be maintained at ________ psi for _________ minutes.",
+			"answer": ["5", "15"]
+		},
+		{
+			"question": "Water service pipe shall be installed not less than _______ inches deep and not less than _________ inches below the frost line.",
+			"answer": ["12", "6"]
+		},
+		{
+			"question": "Trenching installed parallel to footings shall not extend below the ________ - degree bearing plane of the bottom edge of a wall or footing.",
+			"answer": ["45"]
+		},
+		{
+			"question": "In plumbing systems, supports for 1-inch copper or copper alloy tubing run horizontal shall not be spaced more than ________ feet apart.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Fixture tail pieces shall be not less than _______ inches in diameter for sinks, dishwashers, laundry tubs, bathtubs and similar fixtures.",
+			"answer": ["1.5"]
+		},
+		{
+			"question": "The center line of water closets or bidets shall not be set less than _______ inches from adjacent side walls or partitions.",
+			"answer": ["15"]
+		},
+		{
+			"question": "There shall be at least ________ inches of clearance in front of the water closet, bidet, or lavatory to any wall, fixture or door.",
+			"answer": ["21"]
+		},
+		{
+			"question": "Standpipes shall extend a minimum of ________ inches and a maximum of _______ inches above the trap weir.",
+			"answer": ["18", "42"]
+		},
+		{
+			"question": "Shower compartments shall have at least ________ square inches of interior cross-sectional area.",
+			"answer": ["900"]
+		},
+		{
+			"question": "Lavatories shall have waste outlets not less than ________ inches in diameter.",
+			"answer": ["1.25"]
+		},
+		{
+			"question": "Bathtubs shall be equipped with waste outlets and overflow outlets connected to piping at least ________ inches in diameter.",
+			"answer": ["1.5"]
+		},
+		{
+			"question": "Sinks shall be provided with waste outlets not less than _______ inches in diameter.",
+			"answer": ["1.5"]
+		},
+		{
+			"question": "Each compartment of a laundry tub shall be provided with a waste outlet not less than _______ inches in diameter.",
+			"answer": ["1.5"]
+		},
+		{
+			"question": "Floor drains shall have waste outlets not less than _______ inches in diameter and a removable strainer.",
+			"answer": ["2"]
+		},
+		{
+			"question": "Bottom fed tank-type water heaters and bottom fed tanks connected to water heaters shall have a ______ ______ valve installed.",
+			"answer": ["vacuum", "relief"]
+		},
+		{
+			"question": "The maximum static pressure of a water service shall be ________ psi.",
+			"answer": ["80"]
+		},
+		{
+			"question": "The minimum size water service pipe shall be ________ inch.",
+			"answer": ["3/4"]
+		},
+		{
+			"question": "A _______ - __________ fire sprinkler system shall be seperate and independent from the water distribution system.",
+			"answer": ["stand", "alone"]
+		},
+		{
+			"question": "The fire sprinkler water supply shall provide the required design flow rate for ________ minutes for one-story dwelling units less than ________ square feet in area.",
+			"answer": ["7","2000"]
+		},
+		{
+			"question": "Where chlorine is used for disinfection in nonpotable water systems, the water shall contain not more than ________ ppm of chloramines or free chlorine.",
+			"answer": ["4"]
+		},
+		{
+			"question": "The drainage fixture unit (d.f.u.) value of a dishwasher is __________.",
+			"answer": ["2"]
+		},
+		{
+			"question": "Any combination of fixtures within two bathroom groups located on the same floor level are __________ to be vented by a horizontal wet vent.",
+			"answer": ["permitted"]
+		},
+		{
+			"question": "Storm drainage sump pumps shall be of a capacity and head appropriate to _________ use requirements.",
+			"answer": ["anticipated"]
+		},
+		{
+			"question": "Electrical services within the scope of the IRC are limited to _________ volt, 0- to ________ -ampere, single-phase systems.",
+			"answer": ["120/240","400"]
+		},
+		{
+			"question": "The markings for identification of disconnecting means shall have the durability to withstand the _________ involved.",
+			"answer": ["environment"]
+		},
+		{
+			"question": "Electrical panelboards and overcurrent devices shall not be located in __________.",
+			"answer": ["clothes","closets","bathrooms","stairway","closets"]
+		},
+		{
+			"question": "Connected to establish electrical continuity and conductivity.",
+			"answer": ["bonded"]
+		},
+		{
+			"question": "Overhead service-drop conductors shall have a vertical clearance of not less than _______ feet above the roof surface.",
+			"answer": ["8"]
+		},
+		{
+			"question": "Over residential property and driveways, service-drop conductors shall have _________ feet minimum clearance above final grade.",
+			"answer": ["12"]
+		},
+		{
+			"question": "In no case shall the point of attachment for service-drop conductors be less than _______ feet above finished grade.",
+			"answer": ["10"]
+		},
+		{
+			"question": "Above-ground service-entrance cables subject to physical damage shall be protected by Schedule ___________ PVC conduit",
+			"answer": ["80"]
+		},
+		{
+			"question": "Interior metal water piping located more than ________ feet from the point of entrance to the building shall not be used to connect electrodes as part of the grounding electrode system.",
+			"answer": ["5"]
+		},
+		{
+			"question": "Rod an pipe electrodes shall be not less than _________ feet in length.",
+			"answer": ["8"]
+		},
+		{
+			"question": "Bonding shall be provided where necessary to ensure electrical __________.",
+			"answer": ["continuity"]
+		},
+		{
+			"question": "All mechanical elements used to terminate a grounding electrode conductor or bonding jumper to the grounding electrodes shall be __________.",
+			"answer": ["accessible"]
+		},
+		{
+			"question": "Where a branch circuit or feeder supplies a continuous load, it shall have an ampacity of at least the noncontinuous load plus ________ percent of continuous load.",
+			"answer": ["125"]
+		},
+		{
+			"question": "The rating of any one cord-and-plug-connected utilization equipment shall not exceed ________ percent of the branch-circuit ampere rating.",
+			"answer": ["80"]
+		},
+		{
+			"question": "Branch circuit ratings for space-heating and water-heating appliances shall be considered ________ loads.",
+			"answer": ["continuous"]
+		},
+		{
+			"question": "A minimum of ____________ 20-ampere-rated branch circuits shall be provided to serve all wall and floor receptacle outlets located in the kitchen, pantry, breakfast area, dining area or similar area of a dwelling.",
+			"answer": ["2"]
+		},
+		{
+			"question": "A minimum of one ________-ampere-rated branch circuit shall be provided for receptacles located in the laundry area and shall serve only receptacle outlets in the laundry area.",
+			"answer": ["20"]
+		},
+		{
+			"question": "A minimum of ___________ 20-ampere rated branch circuit(s) shall be provided to supply the bathroom receptacle outlet(s). Such circuits shall have no other outlets.",
+			"answer": ["1"]
+		},
+		{
+			"question": "Conductors in NM cable assemblies shall be rated at _________ degrees Celsius.",
+			"answer": ["90"]
+		},
+		{
+			"question": "Insulated conductors and cables exposed to direct rays of the sun shall be listed and labeled as ________ _________.",
+			"answer": ["sunlight", "resistant"]
+		},
+		{
+			"question": "Where raceways are installed in wet locations above grade, the interior of such raceways shall be considered to be a ________ location.",
+			"answer": ["wet"]
+		},
+		{
+			"question": "Underground service laterals that are not encased in concrete and that are buried 18 inches or more below grade shall have their location identified by a _______ _________.",
+			"answer": ["warning", "ribbon"]
+		},
+		{
+			"question": "Receptacles shall be installed so that no point along the floor line in any wall space is more than _______ feet, measured horizontally, from an outlet in that space.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Kitchen wall countertop and work surface receptacles shall be installed so that no point along the wall line is more than ________ inches from a receptacle.",
+			"answer": ["24"]
+		},
+		{
+			"question": "At least one receptacle outlet in bathrooms is required to be within _______ inches of the outside edge of each lavatory basin.",
+			"answer": ["36"]
+		},
+		{
+			"question": "There shall be a wall switch at each floor to control stairway lighting where the stairway has _________ or more risers.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Nonmetallic boxes shall be used only with cabled wiring methods with entirely nonmetallic sheaths, flexible cords and nonmetallic raceways.",
+			"answer": ["True"]
+		},
+		{
+			"question": "In calculating box fill, each No. 12 AWG conductor shall require _________ cubic inches of free space within the box.",
+			"answer": ["2.25"]
+		},
+		{
+			"question": "Unused openings in cabinets and panelboards shall be effectively _________ to afford protection equivalent to that of the wall of the cabinet.",
+			"answer": ["closed"]
+		},
+		{
+			"question": "The _________ shall not be considered as an effective ground-fault current path.",
+			"answer": ["earth"]
+		},
+		{
+			"question": "Switches for devices and luminaires shall not be more than ________ feet ______ inches above the floor or working platform when the switch is in its highest position.",
+			"answer": ["6","7"]
+		},
+		{
+			"question": "Receptacles installed on 15- and 20- ampere-rated branch circuits shall be of the ______ type.",
+			"answer": ["grounding"]
+		},
+		{
+			"question": "Recessed incadescent fixtures shall have ________ protection.",
+			"answer": ["thermal"]
+		},
+		{
+			"question": "In clothes closets, surface-mounted incandescent luminaires shall have ________ inches of minimum clearance from the nearest point of a storage space.",
+			"answer": ["12"]
+		},
+		{
+			"question": "A luminaire that weighs more than _______ pounds or exceeds 16 inches in any dimension shall not be supported by the screw shell of a lampholder.",
+			"answer": ["6"]
+		},
+		{
+			"question": "Flexible cords for kitchen range hoods shall be _______ inches minimum and ________ inches maximum length.",
+			"answer": ["18", "48"]
+		},
+		{
+			"question": "Ceiling-suspended paddle fans shall be supported ___________ of an outlet box.",
+			"answer": ["independently"]
+		},
+		{
+			"question": "Cords that supply swimming pool equipment shall have a copper equipment grounding conductor not smaller than No. _________ AWG.",
+			"answer": ["12"]
 		}
 	]
 }
