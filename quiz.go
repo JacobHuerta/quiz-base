@@ -53,7 +53,10 @@ func (quiz *Quiz) run() error {
 			}
 			sinput := strings.split(input, ",") // take only the first line of input
 			if len(sinput) != len(question.Answer) {
-				log.Printf("Incorrect number of answers provided. Expected %d, got %d.\n", len(question.Answer), len(sinput))
+				log.Printf(
+					"Incorrect number of answers provided. Expected %d, got %d.\n", 
+					len(question.Answer), len(sinput)
+				)
 				continue
 			}
 			isgood = true
@@ -111,7 +114,11 @@ func (quiz *Quiz) load_from_file(file_name string) error {
 	//unmarshal json data into quiz map
 	err = json.Unmarshal(data, &quiz)
 	if err != nil {
-		return errors.New(fmt.Sprintf("failed to unmarshal json data from file %s: %v", file_name, err))
+		return errors.New(
+			fmt.Sprintf(
+				"failed to unmarshal json data from file %s: %v", file_name, err
+			)
+		)
 	}
 
 	// check if the quiz map is empty
